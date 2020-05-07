@@ -1,6 +1,6 @@
 # bird
 
-framework for web (it's my personal template for starting a new web project :D )
+Framework for web (it's my personal template for starting a new web project :D )
 
 Clone the project using `git clone https://github.com/amovah/bird.git` command.
 
